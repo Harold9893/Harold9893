@@ -1,4 +1,4 @@
-name: snake
+name: animation
 
 on:
   schedule:
