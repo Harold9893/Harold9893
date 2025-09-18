@@ -1,5 +1,5 @@
 <!-- Hero -->
-<h1 align="center">Hola, Bienvenido 👋</h1>
+<h1 align="center">Hola, Bienvenido 👋 Soy Harold</h1>
 <p align="center">
   Soy <b>Harold</b> — Amante de la <b>IA</b>, el <b>Desarrollo Web</b> y la <b>Ciberseguridad</b>.
 </p>
@@ -41,6 +41,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-%23040506?style=for-the-badge&logo=n8n&logoColor=white" />
+
 </p>
 
 ---
