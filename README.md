@@ -26,7 +26,6 @@
   <!-- Lenguajes -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <!-- Web -->
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
@@ -40,7 +39,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
   <!-- DevOps/Sec -->
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
@@ -78,7 +76,7 @@
 ## 🤝 Contacto
 - 📧 **Email:** harolds9893@gmail.com 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/harold-arciniegas-70894b14b/ 
-- 🌐 **Portafolio:** https:  
+- 🌐 **Portafolio:** https://harold9893-9533cb.webflow.io/ 
 
 ---
 
