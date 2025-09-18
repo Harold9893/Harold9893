@@ -21,29 +21,41 @@
 
 ---
 
-## 🧰 Tech Stack
+### 🤖 Lenguajes
+
 <p>
   <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <!-- Web -->
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <!-- Data/IA -->
-  <img src="https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <!-- DevOps/Sec -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-%23040506?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 
+  <!-- Web -->
+  <img align="left" alt="Django" title="Django" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+  <img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
+  <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+
+  <!-- Data/IA -->
+  <img align="left" alt="OpenCV" title="OpenCV" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
+  <!-- Chips con fondo (perfectos para dark mode) -->
+  <span title="NumPy" style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;background:#013243;border-radius:8px;margin-right:10px;">
+    <img alt="NumPy" width="20px" src="https://cdn.simpleicons.org/numpy/ffffff"/>
+  </span>
+  <span title="Pandas" style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;background:#150458;border-radius:8px;margin-right:10px;">
+    <img alt="Pandas" width="20px" src="https://cdn.simpleicons.org/pandas/ffffff"/>
+  </span>
+
+  <!-- DevOps/Sec -->
+  <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img align="left" alt="Kali Linux" title="Kali Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain.svg"/>
+  <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <span title="n8n" style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;background:#EA4B71;border-radius:8px;margin-right:10px;">
+    <img alt="n8n" width="20px" src="https://cdn.simpleicons.org/n8n/ffffff"/>
+  </span>
 </p>
+
+<br/><br/>
 
 ---
 
