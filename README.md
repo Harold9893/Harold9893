@@ -65,13 +65,14 @@
 ## 📈 Mis estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harold9893&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" alt="Harold stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Harold9893&theme=transparent&hide_border=true" alt="Harold streak"/>
+  <img height="165" src="https://raw.githubusercontent.com/Harold9893/Harold9893/output/profile-summary-card-output/transparent/3-stats.svg" alt="Stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=Harold9893&theme=transparent&hide_border=true" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harold9893&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Top langs"/>
+  <img height="140" src="https://raw.githubusercontent.com/Harold9893/Harold9893/output/profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Top langs (repos)"/>
 </p>
+
 
 ---
 
