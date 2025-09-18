@@ -64,16 +64,25 @@
 
 ---
 
-## 📈 Mis estadísticas
+### 📊 Estadísticas
 
-<p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/Harold9893/Harold9893/output/profile-summary-card-output/transparent/3-stats.svg" alt="Stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Harold9893&theme=transparent&hide_border=true" alt="Streak"/>
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Harold9893&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=es&cache_seconds=86400"
+  />
+  <img
+    align="left"
+    alt="Top languages"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harold9893&theme=tokyonight&layout=compact&custom_title=Tecnologías&langs_count=9&hide_border=true&cache_seconds=86400"
+  />
 </p>
 
-<p align="center">
-  <img height="140" src="https://raw.githubusercontent.com/Harold9893/Harold9893/output/profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Top langs (repos)"/>
-</p>
+<br clear="both"/>
 
 
 ---
