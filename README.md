@@ -21,41 +21,44 @@
 
 ---
 
-### 🤖 Lenguajes
+### 🧰 Lenguajes
 
-<p>
+<div align="left" style="display:flex;gap:12px;flex-wrap:wrap;align-items:center;">
   <!-- Lenguajes -->
-  <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="Python" title="Python" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="Java" title="Java" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 
   <!-- Web -->
-  <img align="left" alt="Django" title="Django" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
-  <img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
-  <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-
-  <!-- Data/IA -->
-  <img align="left" alt="OpenCV" title="OpenCV" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
-  <!-- Chips con fondo (perfectos para dark mode) -->
-  <span title="NumPy" style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;background:#013243;border-radius:8px;margin-right:10px;">
-    <img alt="NumPy" width="20px" src="https://cdn.simpleicons.org/numpy/ffffff"/>
+  <img alt="Django" title="Django" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+  <!-- Flask (mejor en chip para que se vea en dark) -->
+  <span title="Flask" style="display:inline-flex;width:32px;height:32px;border-radius:8px;background:#111827;align-items:center;justify-content:center;">
+    <img alt="Flask" height="20" loading="lazy" src="https://cdn.simpleicons.org/flask/ffffff"/>
   </span>
-  <span title="Pandas" style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;background:#150458;border-radius:8px;margin-right:10px;">
-    <img alt="Pandas" width="20px" src="https://cdn.simpleicons.org/pandas/ffffff"/>
+  <img alt="React" title="React" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img alt="HTML5" title="HTML5" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" title="CSS3" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+
+  <!-- Data / IA -->
+  <img alt="OpenCV" title="OpenCV" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
+  <span title="NumPy" style="display:inline-flex;width:32px;height:32px;border-radius:8px;background:#013243;align-items:center;justify-content:center;">
+    <img alt="NumPy" height="20" loading="lazy" src="https://cdn.simpleicons.org/numpy/ffffff"/>
+  </span>
+  <span title="Pandas" style="display:inline-flex;width:32px;height:32px;border-radius:8px;background:#150458;align-items:center;justify-content:center;">
+    <img alt="Pandas" height="20" loading="lazy" src="https://cdn.simpleicons.org/pandas/ffffff"/>
   </span>
 
-  <!-- DevOps/Sec -->
-  <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-  <img align="left" alt="Kali Linux" title="Kali Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain.svg"/>
-  <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <span title="n8n" style="display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;background:#EA4B71;border-radius:8px;margin-right:10px;">
-    <img alt="n8n" width="20px" src="https://cdn.simpleicons.org/n8n/ffffff"/>
+  <!-- DevOps / Sec -->
+  <img alt="Docker" title="Docker" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <!-- Kali (icono roto en devicon, usamos simpleicons en chip) -->
+  <span title="Kali Linux" style="display:inline-flex;width:32px;height:32px;border-radius:8px;background:#557C94;align-items:center;justify-content:center;">
+    <img alt="Kali Linux" height="20" loading="lazy" src="https://cdn.simpleicons.org/kalilinux/ffffff"/>
   </span>
-</p>
-
-<br/><br/>
+  <img alt="Git" title="Git" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <span title="n8n" style="display:inline-flex;width:32px;height:32px;border-radius:8px;background:#EA4B71;align-items:center;justify-content:center;">
+    <img alt="n8n" height="20" loading="lazy" src="https://cdn.simpleicons.org/n8n/ffffff"/>
+  </span>
+</div>
 
 ---
 
