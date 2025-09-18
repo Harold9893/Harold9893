@@ -1,9 +1,9 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule:            # 1 vez al día
-    - cron: "0 6 * * *"
-  workflow_dispatch:   # permitir ejecutarlo a mano
+  schedule:
+    - cron: "0 6 * * *"   # 1 vez al día
+  workflow_dispatch:       # permitir correrlo a mano
 
 jobs:
   build:
@@ -12,12 +12,11 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # usa tu token para evitar rate limits
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # con esto basta
         with:
           USERNAME: Harold9893
-          BRANCH_NAME: "output"     # guarda las imágenes en la rama output
-          UTC_OFFSET: -5            # Colombia
+          BRANCH_NAME: output
           AUTO_PUSH: true
