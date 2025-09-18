@@ -103,9 +103,22 @@
 ---
 
 ## 🤝 Contacto
-- 📧 **Email:** harolds9893@gmail.com 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/harold-arciniegas-70894b14b/ 
-- 🌐 **Portafolio:** https://harold9893-9533cb.webflow.io/ 
+
+<p align="center">
+  <a href="mailto:harolds9893@gmail.com?subject=Hola%20Harold%20%E2%80%93%20desde%20tu%20GitHub&body=Hola%20Harold%2C%20vi%20tu%20perfil%20en%20GitHub%20y%20quiero%20contactarte%20sobre...">
+    <img alt="Email" src="https://img.shields.io/badge/Email-harolds9893%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/harold-arciniegas-70894b14b/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harold%20Arciniegas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://harold9893-9533cb.webflow.io/">
+    <img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <sub>🇨🇴 Disponible para trabajo remoto y colaboraciones.</sub>
+</p>
 
 ---
 
