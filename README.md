@@ -87,23 +87,34 @@
 ---
 
 ### 📊 Estadísticas
-<p align="center">
+
+<div align="center">
+
+  <!-- Fila 1: Stats + Top Langs -->
   <img
+    height="180"
     align="center"
     alt="GitHub Stats"
-    height="180"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Harold9893&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=es&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=Harold9893&show_icons=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=1f6feb&text_color=c9d1d9&icon_color=1f6feb&ring_color=1f6feb&border_radius=10&cache_seconds=86400"
   />
   <img
-    align="center"
-    alt="Top languages"
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harold9893&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    align="center"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harold9893&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=1f6feb&text_color=c9d1d9&border_radius=10&cache_seconds=86400"
   />
-</p>
 
----
+  <br><br>
+
+<!-- Profile details con fondo transparente -->
+<img
+  align="center"
+  alt="Profile details"
+  width="95%"
+  style="border-radius:12px; box-shadow:0 0 0 1px rgba(31,110,235,.35);"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harold9893&theme=algolia&background=00000000&hide_border=true"
+/>
+
 
 ## 🤝 Contacto
 <p align="center">
