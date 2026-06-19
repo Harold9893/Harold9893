@@ -7,7 +7,7 @@
 <!-- Typing line (typewriter + rápido) -->
 <div align="center" width="100%">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=1500&pause=300&color=1F6FEB&center=true&vCenter=true&width=900&lines=%C2%A1Hola!+Soy+Harold;Amante+de+la+IA,+el+Desarrollo+Web+y+la+Ciberseguridad;%C2%A1Bienvenido+a+mi+perfil!"
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=1500&pause=300&color=1F6FEB&center=true&vCenter=true&width=900&lines=Desarrollo+software+que+funciona+en+producci%C3%B3n;No+solo+c%C3%B3digo%2C+tambi%C3%A9n+seguridad+y+dise%C3%B1o;Desde+Nari%C3%B1o+para+el+mundo+%F0%9F%87%A8%F0%9F%87%B4;React+%2F+TypeScript+%2F+Python+%2F+Node.js"
     alt="Typing SVG"
   />
 </div>
@@ -22,15 +22,18 @@
 
 ---
 
-## 🚀 Sobre mí
-- 🧠 Actualmente aprendiendo: **IA aplicada**, **DevOps básico**, **Pentesting**.  
-- 🛠️ Construyendo proyectos reales en: **Python**, **Django/Flask**, **JavaScript/TypeScript**, **React**, **Docker**.  
-- 🔒 Intereses fuertes: **Blue/Red Team**, **hardening**, **automatización de pruebas de seguridad**.  
-- 🌎 Abierto a trabajo remoto y colaboraciones.  
+## ⚡ Sobre mí
+
+Desarrollador de software desde Nariño, Colombia. Me muevo entre el frontend, el backend y la seguridad — con tendencia a quedarme demasiado tiempo en la terminal.
+
+- 🛠️ Construyendo: CRMs financieros, marketplaces en React/TypeScript + PostgreSQL, y herramientas con la Claude API.
+- 🔐 Estudiando: seguridad ofensiva/defensiva, automatización de auditorías, CTFs.
+- 🤖 Jugando con: visión por computador, n8n, modelos de IA aplicados a flujos reales.
+- 📍 Pasto, Nariño — disponible remotamente.
 
 ---
 
-### 🧰 Lenguajes
+### 🧰 Lenguajes y herramientas
 <!-- Bloque de iconos centrado y responsive -->
 <div align="center" style="display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:center;">
   <!-- Lenguajes -->
@@ -69,19 +72,29 @@
 
 ---
 
-## 🏆 Highlights
-- 🤖 Proyectos con **visión por computador** (OpenCV) y **automatización**.
-- 🔐 Scripts de **hardening**, **auditoría básica** y **CTF practice**.
-- 🧩 Me gusta explicar conceptos complejos de forma simple y práctica.
+## 🏆 Lo que hago distinto
+
+- Trabajo en proyectos con usuarios reales: sistemas de cartera, marketplaces, plataformas fintech.
+- No solo código: pienso en UX, seguridad y mantenibilidad desde el primer commit.
+- Explico lo que construyo — porque entender es parte del oficio.
 
 ---
 
 ## 📌 Proyectos destacados
-- 🔭 **Detector de Personas (OpenCV)** — Python + OpenCV + Webcam.  
-  `#computervision #opencv #python`
+
+- 🦙 **CuyMarket** — Marketplace digital para productores de cuy en Colombia y Ecuador. React + TypeScript + Node.js + PostgreSQL/Prisma.  
+  `#fullstack #marketplace #latam`
+
+- 📋 **CarteraCRM** — Sistema de cartera y gestión de clientes para empresa de crédito. +9k líneas, React/TypeScript.  
+  `#fintech #crm #typescript`
+
+- 👁️ **Cédula OCR** — Detector de cédulas colombianas con Claude Vision API. Exporta a Excel/CSV en batch.  
+  `#ai #ocr #python`
+
 - 🛡️ **Mini Pentest Lab** — VMs, nmap, metasploit, reportes automatizados.  
   `#security #kali #automation`
-- 💬 **Bot WhatsApp (Web Automation)** — Envío personalizado desde desktop.  
+
+- 💬 **Bot WhatsApp** — Envío personalizado masivo desde desktop vía automatización web.  
   `#python #automation`
 
 ---
@@ -106,17 +119,21 @@
 
   <br><br>
 
-<!-- Profile details con fondo transparente -->
-<img
-  align="center"
-  alt="Profile details"
-  width="95%"
-  style="border-radius:12px; box-shadow:0 0 0 1px rgba(31,110,235,.35);"
-  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harold9893&theme=algolia&background=00000000&hide_border=true"
-/>
+  <!-- Profile details con fondo transparente -->
+  <img
+    align="center"
+    alt="Profile details"
+    width="95%"
+    style="border-radius:12px; box-shadow:0 0 0 1px rgba(31,110,235,.35);"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harold9893&theme=algolia&background=00000000&hide_border=true"
+  />
 
+</div>
+
+---
 
 ## 🤝 Contacto
+
 <p align="center">
   <a href="mailto:harolds9893@gmail.com?subject=Hola%20Harold%20%E2%80%93%20desde%20tu%20GitHub&body=Hola%20Harold%2C%20vi%20tu%20perfil%20en%20GitHub%20y%20quiero%20contactarte%20sobre...">
     <img alt="Email" src="https://img.shields.io/badge/Email-harolds9893%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white">
@@ -136,9 +153,14 @@
 ---
 
 ## 🐍 Snake de contribuciones
+
 <!-- Light / Dark auto -->
 ![snake gif](https://raw.githubusercontent.com/Harold9893/Harold9893/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![snake gif](https://raw.githubusercontent.com/Harold9893/Harold9893/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+<p align="center">
+  <sub>Última cosa antes de irte: revisa el código, no los títulos.</sub>
+</p>
 
 <!-- Footer wave (azul) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=100&section=footer"/>
