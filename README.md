@@ -4,10 +4,9 @@
 <!-- Hero -->
 <h1 align="center">Hola, Bienvenido 👋 Soy Harold</h1>
 
-<!-- Typing line (typewriter + rápido) -->
 <div align="center" width="100%">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=1500&pause=300&color=1F6FEB&center=true&vCenter=true&width=900&lines=Desarrollo+software+que+funciona+en+producci%C3%B3n;No+solo+c%C3%B3digo%2C+tambi%C3%A9n+seguridad+y+dise%C3%B1o;Desde+Nari%C3%B1o+para+el+mundo+%F0%9F%87%A8%F0%9F%87%B4;React+%2F+TypeScript+%2F+Python+%2F+Node.js"
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=1500&pause=300&color=1F6FEB&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Construyendo+soluciones+que+resuelven+problemas+reales;React+%2B+TypeScript+%2B+Node.js;IA+Aplicada+%7C+Automatizaci%C3%B3n+%7C+Ciberseguridad;Siempre+aprendiendo%2C+siempre+construyendo"
     alt="Typing SVG"
   />
 </div>
