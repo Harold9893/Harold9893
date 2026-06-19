@@ -24,7 +24,7 @@
 
 ## ⚡ Sobre mí
 
-Desarrollador de software desde Nariño, Colombia. Me muevo entre el frontend, el backend y la seguridad — con tendencia a quedarme demasiado tiempo en la terminal.
+Desarrollador de software desde Nariño, Colombia. Experiencia construyendo aplicaciones web, plataformas financieras y herramientas de automatización utilizando React, TypeScript, Node.js y PostgreSQL. Interesado en IA aplicada, ciberseguridad y soluciones escalables.
 
 - 🛠️ Construyendo: CRMs financieros, marketplaces en React/TypeScript + PostgreSQL, y herramientas ofimaticas.
 - 🔐 Estudiando: seguridad ofensiva/defensiva, automatización de auditorías, CTFs.
