@@ -26,7 +26,7 @@
 
 Desarrollador de software desde Nariño, Colombia. Me muevo entre el frontend, el backend y la seguridad — con tendencia a quedarme demasiado tiempo en la terminal.
 
-- 🛠️ Construyendo: CRMs financieros, marketplaces en React/TypeScript + PostgreSQL, y herramientas con la Claude API.
+- 🛠️ Construyendo: CRMs financieros, marketplaces en React/TypeScript + PostgreSQL, y herramientas ofimaticas.
 - 🔐 Estudiando: seguridad ofensiva/defensiva, automatización de auditorías, CTFs.
 - 🤖 Jugando con: visión por computador, n8n, modelos de IA aplicados a flujos reales.
 - 📍 Pasto, Nariño — disponible remotamente.
