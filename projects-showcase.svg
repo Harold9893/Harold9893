@@ -1,0 +1,141 @@
+<svg width="1200" height="610" viewBox="0 0 1200 610" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Proyectos destacados de Harold Arciniegas</title>
+  <desc id="desc">Panel animado con cuatro proyectos: plataforma fintech, inteligencia inmobiliaria, CuyMarket y automatización con inteligencia artificial.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050806"/>
+      <stop offset="0.55" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#07140b"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22c55e" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .title{font:700 29px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#f5f7f4;letter-spacing:2px}
+      .eyebrow{font:600 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#22c55e;letter-spacing:3px}
+      .name{font:700 21px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#f5f7f4}
+      .copy{font:400 15px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#a7b0aa}
+      .tag{font:600 12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#86efac}
+      .card{fill:#0d1117;stroke:#27322b;stroke-width:1.5}
+      .pulse{animation:pulse 2.4s ease-in-out infinite}
+      .pulse2{animation:pulse 2.4s .6s ease-in-out infinite}
+      .pulse3{animation:pulse 2.4s 1.2s ease-in-out infinite}
+      .pulse4{animation:pulse 2.4s 1.8s ease-in-out infinite}
+      .line{animation:move 5s linear infinite}
+      .card1{animation:border 4s ease-in-out infinite}
+      .card2{animation:border 4s 1s ease-in-out infinite}
+      .card3{animation:border 4s 2s ease-in-out infinite}
+      .card4{animation:border 4s 3s ease-in-out infinite}
+      .float1{animation:float 3s ease-in-out infinite}
+      .float2{animation:float 3s .7s ease-in-out infinite}
+      .float3{animation:float 3s 1.4s ease-in-out infinite}
+      .float4{animation:float 3s 2.1s ease-in-out infinite}
+      .blink{animation:blink 1.8s steps(2,end) infinite}
+      @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+      @keyframes move{0%{transform:translateX(-1100px)}100%{transform:translateX(1100px)}}
+      @keyframes border{0%,100%{stroke:#27322b}50%{stroke:#22c55e}}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+      @keyframes blink{0%,45%{opacity:1}46%,55%{opacity:.15}56%,100%{opacity:1}}
+    </style>
+  </defs>
+  <rect width="1200" height="610" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="608" rx="17" fill="none" stroke="#27322b" stroke-width="2"/>
+  <circle cx="34" cy="31" r="6" fill="#ef4444"/><circle cx="55" cy="31" r="6" fill="#f59e0b"/><circle cx="76" cy="31" r="6" fill="#22c55e"/>
+  <text x="100" y="36" class="eyebrow">HARTOK / PROJECT CONSOLE</text>
+  <text x="48" y="100" class="title">SELECTED SYSTEMS</text>
+  <text x="48" y="128" class="copy">software built around real operations</text>
+  <rect x="-1100" y="151" width="1100" height="2" fill="url(#scan)" class="line"/>
+
+  <g transform="translate(48 177)">
+    <rect width="536" height="174" rx="13" class="card card1"/>
+    <circle cx="28" cy="28" r="7" fill="#22c55e" filter="url(#glow)" class="pulse"/>
+    <text x="50" y="35" class="eyebrow">01 / FINTECH</text>
+    <text x="24" y="78" class="name">Plataforma de crédito y cartera</text>
+    <text x="24" y="108" class="copy">Solicitudes · pagos · auditoría · cartera</text>
+    <text x="24" y="145" class="tag">REACT  TYPESCRIPT  NODE  POSTGRESQL  DOCKER</text>
+    <g transform="translate(434 43)" shape-rendering="crispEdges">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3s" repeatCount="indefinite" additive="sum"/>
+      <rect x="0" y="13" width="68" height="48" rx="3" fill="#17201a" stroke="#22c55e" stroke-width="3"/>
+      <rect x="8" y="21" width="52" height="31" fill="#06130a"/>
+      <rect x="15" y="28" width="25" height="4" fill="#22c55e" class="blink"/>
+      <rect x="15" y="37" width="36" height="4" fill="#86efac"/>
+      <rect x="-8" y="61" width="84" height="8" fill="#38443c"/>
+      <rect x="73" y="0" width="13" height="13" fill="#facc15"/>
+      <rect x="82" y="15" width="13" height="13" fill="#facc15" class="pulse"/>
+      <rect x="68" y="30" width="13" height="13" fill="#facc15"/>
+    </g>
+  </g>
+  <g transform="translate(616 177)">
+    <rect width="536" height="174" rx="13" class="card card2"/>
+    <circle cx="28" cy="28" r="7" fill="#22c55e" filter="url(#glow)" class="pulse2"/>
+    <text x="50" y="35" class="eyebrow">02 / PROPTECH</text>
+    <text x="24" y="78" class="name">Real Estate Intelligence</text>
+    <text x="24" y="108" class="copy">Datos prediales · análisis · estimación</text>
+    <text x="24" y="145" class="tag">PYTHON  MACHINE LEARNING  REACT  DATA</text>
+    <g transform="translate(433 35)" shape-rendering="crispEdges">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.3s" begin=".7s" repeatCount="indefinite" additive="sum"/>
+      <rect x="18" y="13" width="58" height="88" fill="#14241a" stroke="#22c55e" stroke-width="3"/>
+      <rect x="28" y="25" width="10" height="12" fill="#86efac" class="blink"/>
+      <rect x="47" y="25" width="10" height="12" fill="#86efac"/>
+      <rect x="28" y="47" width="10" height="12" fill="#86efac"/>
+      <rect x="47" y="47" width="10" height="12" fill="#86efac" class="blink"/>
+      <rect x="39" y="76" width="16" height="25" fill="#07140b"/>
+      <path d="M0 62 L18 46 L35 62 V101 H0Z" fill="#1c3223" stroke="#4ade80" stroke-width="3"/>
+      <rect x="11" y="78" width="10" height="23" fill="#07140b"/>
+      <rect x="5" y="67" width="9" height="9" fill="#bbf7d0"/>
+    </g>
+  </g>
+  <g transform="translate(48 383)">
+    <rect width="536" height="174" rx="13" class="card card3"/>
+    <circle cx="28" cy="28" r="7" fill="#22c55e" filter="url(#glow)" class="pulse3"/>
+    <text x="50" y="35" class="eyebrow">03 / MARKETPLACE</text>
+    <text x="24" y="78" class="name">CuyMarket</text>
+    <text x="24" y="108" class="copy">Productores · compradores · Colombia + Ecuador</text>
+    <text x="24" y="145" class="tag">REACT  EXPRESS  PRISMA  POSTGRESQL</text>
+    <g transform="translate(428 50)" shape-rendering="crispEdges">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.6s" begin="1.2s" repeatCount="indefinite" additive="sum"/>
+      <rect x="18" y="19" width="64" height="51" fill="#9b6a3c"/>
+      <rect x="8" y="29" width="20" height="31" fill="#b9804b"/>
+      <rect x="72" y="10" width="18" height="25" fill="#b9804b"/>
+      <rect x="78" y="15" width="5" height="5" fill="#050806" class="blink"/>
+      <rect x="86" y="25" width="12" height="7" fill="#d9a266"/>
+      <rect x="27" y="9" width="14" height="17" fill="#9b6a3c"/>
+      <rect x="57" y="8" width="14" height="18" fill="#9b6a3c"/>
+      <rect x="25" y="70" width="13" height="17" fill="#714726"/>
+      <rect x="62" y="70" width="13" height="17" fill="#714726"/>
+      <rect x="31" y="34" width="7" height="7" fill="#f5f7f4"/>
+      <rect x="33" y="36" width="3" height="3" fill="#050806"/>
+      <rect x="41" y="53" width="20" height="7" fill="#6b4226"/>
+    </g>
+  </g>
+  <g transform="translate(616 383)">
+    <rect width="536" height="174" rx="13" class="card card4"/>
+    <circle cx="28" cy="28" r="7" fill="#22c55e" filter="url(#glow)" class="pulse4"/>
+    <text x="50" y="35" class="eyebrow">04 / INTELLIGENCE</text>
+    <text x="24" y="78" class="name">AI + Automation</text>
+    <text x="24" y="108" class="copy">OCR · documentos · bots · integraciones</text>
+    <text x="24" y="145" class="tag">PYTHON  VISION API  N8N  APIS</text>
+    <g transform="translate(431 38)" shape-rendering="crispEdges">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.9s" begin="1.8s" repeatCount="indefinite" additive="sum"/>
+      <rect x="15" y="15" width="72" height="67" rx="7" fill="#14241a" stroke="#22c55e" stroke-width="3"/>
+      <rect x="27" y="31" width="15" height="15" fill="#4ade80" class="blink"/>
+      <rect x="60" y="31" width="15" height="15" fill="#4ade80" class="blink"/>
+      <rect x="34" y="60" width="35" height="6" fill="#86efac"/>
+      <rect x="48" y="0" width="6" height="15" fill="#22c55e"/>
+      <rect x="44" y="-7" width="14" height="9" fill="#86efac" class="pulse"/>
+      <rect x="0" y="35" width="15" height="25" fill="#273c2e"/>
+      <rect x="87" y="35" width="15" height="25" fill="#273c2e"/>
+      <circle cx="4" cy="4" r="4" fill="#22c55e" class="pulse"/>
+      <circle cx="99" cy="7" r="4" fill="#22c55e" class="pulse2"/>
+      <path d="M4 4 L18 22 M99 7 L84 24" stroke="#22c55e" stroke-width="2" stroke-dasharray="4 4"/>
+    </g>
+  </g>
+  <text x="1040" y="590" class="eyebrow">LIVE</text>
+  <circle cx="1125" cy="585" r="6" fill="#22c55e" filter="url(#glow)" class="pulse"/>
+</svg>
