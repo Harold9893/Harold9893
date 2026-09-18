@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://hartok.co/">
-    <img width="100%" src="./assets/hartok-8bit-banner.png" alt="Hello World, I'm Harold — HARTOK">
+    <img width="100%" src="./assets/hartok-8bit-banner.gif" alt="Hello World, I'm Harold — HARTOK">
   </a>
 </div>
 
@@ -59,12 +59,8 @@
    
 <img height="48" src="https://cdn.simpleicons.org/webflow/146EF5" title="Webflow" alt="Webflow">
    
-<img height="48" src="./assets/qgis-logo.svg" title="QGIS" alt="QGIS">
-   
 <img height="48" src="https://cdn.simpleicons.org/kalilinux/557C94" title="Kali Linux" alt="Kali Linux">
-   
-<img height="48" src="./assets/twilio-logo.svg" title="Twilio" alt="Twilio">
-   
+      
 <img height="48" src="https://cdn.worldvectorlogo.com/logos/sendgrid-1.svg" title="SendGrid" alt="SendGrid">
 
 </div>
