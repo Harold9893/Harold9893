@@ -15,8 +15,8 @@
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harold9893&show_icons=true&count_private=true&rank_icon=github&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=22C55E&text_color=F5F7F4&icon_color=22C55E&ring_color=22C55E&locale=es" alt="Estadísticas de GitHub">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harold9893&layout=compact&langs_count=8&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=22C55E&text_color=F5F7F4&locale=es" alt="Lenguajes más usados">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harold9893&theme=github_dark" alt="Estadísticas de GitHub">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harold9893&theme=github_dark" alt="Lenguajes más usados">
   <br><br>
   <strong>DESARROLLO · AUTOMATIZACIÓN · IA APLICADA</strong>
   <br>
@@ -93,7 +93,7 @@
 <br>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harold9893&bg_color=0D1117&color=F5F7F4&line=22C55E&point=FFFFFF&area=true&area_color=166534&hide_border=false&border_color=30363D&custom_title=Actividad%20de%20contribuciones" alt="Actividad de GitHub">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harold9893&theme=github_dark" alt="Actividad de GitHub">
 </div>
 
 <br>
