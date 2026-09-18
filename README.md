@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://hartok.co/"><img src="https://img.shields.io/badge/HARTOK-DIGITAL%20SYSTEMS-22C55E?style=for-the-badge&labelColor=050806" alt="HARTOK"></a>
+  <a href="https://hartok.co/"><img src="https://img.shields.io/badge/HARTOK-WEBSITE-22C55E?style=for-the-badge&labelColor=050806" alt="HARTOK"></a>
   <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-F5F7F4?style=for-the-badge&labelColor=050806" alt="Full Stack Developer">
   <img src="https://img.shields.io/badge/PASTO-COLOMBIA-F5F7F4?style=for-the-badge&labelColor=050806" alt="Pasto, Colombia">
 </p>
@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-  <h2>Stack tecnológico</h2>
+  <h2>STACK TECNOLOGICO</h2>
 
 <sub><strong>FRONTEND</strong></sub>
 <br><br>
@@ -45,17 +45,21 @@
 <br><br>
 <sub><strong>AI · AUTOMATION · PLATFORMS</strong></sub>
 <br><br>
-<img src="https://img.shields.io/badge/n8n-050806?style=for-the-badge&logo=n8n&logoColor=22C55E" alt="n8n">
-<img src="https://img.shields.io/badge/OpenCV-050806?style=for-the-badge&logo=opencv&logoColor=22C55E" alt="OpenCV">
-<img src="https://img.shields.io/badge/NumPy-050806?style=for-the-badge&logo=numpy&logoColor=22C55E" alt="NumPy">
-<img src="https://img.shields.io/badge/Pandas-050806?style=for-the-badge&logo=pandas&logoColor=22C55E" alt="Pandas">
-<img src="https://img.shields.io/badge/Neon-050806?style=for-the-badge&logo=neon&logoColor=22C55E" alt="Neon">
-<br>
-<img src="https://img.shields.io/badge/Webflow-050806?style=for-the-badge&logo=webflow&logoColor=22C55E" alt="Webflow">
-<img src="https://img.shields.io/badge/QGIS-050806?style=for-the-badge&logo=qgis&logoColor=22C55E" alt="QGIS">
-<img src="https://img.shields.io/badge/Kali%20Linux-050806?style=for-the-badge&logo=kalilinux&logoColor=22C55E" alt="Kali Linux">
-<img src="https://img.shields.io/badge/Twilio-050806?style=for-the-badge&logo=twilio&logoColor=22C55E" alt="Twilio">
-<img src="https://img.shields.io/badge/SendGrid-050806?style=for-the-badge&logo=minutemailer&logoColor=22C55E" alt="SendGrid">
+<img height="48" src="https://cdn.simpleicons.org/n8n/EA4B71" title="n8n" alt="n8n">
+   
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV">
+   
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy">
+   
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas">
+   
+<img height="48" src="https://cdn.simpleicons.org/neon/00E599" title="Neon" alt="Neon">
+   
+<img height="48" src="https://cdn.simpleicons.org/webflow/146EF5" title="Webflow" alt="Webflow">
+   
+<img height="48" src="https://cdn.simpleicons.org/kalilinux/557C94" title="Kali Linux" alt="Kali Linux">
+     
+<img height="48" src="https://cdn.worldvectorlogo.com/logos/sendgrid-1.svg" title="SendGrid" alt="SendGrid">
 
 </div>
 
