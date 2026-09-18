@@ -26,69 +26,44 @@
 <br>
 
 <div align="center">
-  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React">
-  &nbsp;&nbsp;
-  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript">
-  &nbsp;&nbsp;
-  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript">
-  &nbsp;&nbsp;
-  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js">
-  &nbsp;&nbsp;
-  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">
-  &nbsp;&nbsp;
-  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django">
-  &nbsp;&nbsp;
-  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
-  &nbsp;&nbsp;
-  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker">
+  <h2>Stack tecnológico</h2>
+
+<sub><strong>FRONTEND</strong></sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind&theme=dark" alt="Frontend: TypeScript, JavaScript, React, HTML, CSS y Tailwind">
+
+<br><br>
+<sub><strong>BACKEND & DATA</strong></sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=python,java,nodejs,express,django,flask,postgres,prisma&theme=dark" alt="Backend y datos: Python, Java, Node.js, Express, Django, Flask, PostgreSQL y Prisma">
+
+<br><br>
+<sub><strong>DEVOPS & TOOLS</strong></sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,arduino&theme=dark" alt="DevOps y herramientas: Docker, Git, GitHub, Linux, VS Code y Arduino">
+
+<br><br>
+<sub><strong>AI · AUTOMATION · PLATFORMS</strong></sub>
+<br><br>
+<img src="https://img.shields.io/badge/n8n-050806?style=for-the-badge&logo=n8n&logoColor=22C55E" alt="n8n">
+<img src="https://img.shields.io/badge/OpenCV-050806?style=for-the-badge&logo=opencv&logoColor=22C55E" alt="OpenCV">
+<img src="https://img.shields.io/badge/NumPy-050806?style=for-the-badge&logo=numpy&logoColor=22C55E" alt="NumPy">
+<img src="https://img.shields.io/badge/Pandas-050806?style=for-the-badge&logo=pandas&logoColor=22C55E" alt="Pandas">
+<img src="https://img.shields.io/badge/Neon-050806?style=for-the-badge&logo=neon&logoColor=22C55E" alt="Neon">
+<br>
+<img src="https://img.shields.io/badge/Webflow-050806?style=for-the-badge&logo=webflow&logoColor=22C55E" alt="Webflow">
+<img src="https://img.shields.io/badge/QGIS-050806?style=for-the-badge&logo=qgis&logoColor=22C55E" alt="QGIS">
+<img src="https://img.shields.io/badge/Kali%20Linux-050806?style=for-the-badge&logo=kalilinux&logoColor=22C55E" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Twilio-050806?style=for-the-badge&logo=twilio&logoColor=22C55E" alt="Twilio">
+<img src="https://img.shields.io/badge/SendGrid-050806?style=for-the-badge&logo=minutemailer&logoColor=22C55E" alt="SendGrid">
+
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REACT-050806?style=for-the-badge&logo=react&logoColor=22C55E" alt="React">
-  <img src="https://img.shields.io/badge/TYPESCRIPT-050806?style=for-the-badge&logo=typescript&logoColor=22C55E" alt="TypeScript">
-  <img src="https://img.shields.io/badge/NODE.JS-050806?style=for-the-badge&logo=node.js&logoColor=22C55E" alt="Node.js">
-  <img src="https://img.shields.io/badge/POSTGRESQL-050806?style=for-the-badge&logo=postgresql&logoColor=22C55E" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/PYTHON-050806?style=for-the-badge&logo=python&logoColor=22C55E" alt="Python">
-</p>
-
-<h2>Proyectos destacados</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Plataforma de crédito y cartera</strong>
-      <br><br>
-      Solicitudes, clientes, pagos, validación, auditoría y seguimiento.
-      <br><br>
-      <code>React</code> <code>TypeScript</code> <code>Node</code> <code>PostgreSQL</code>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Real Estate Intelligence</strong>
-      <br><br>
-      Análisis de datos prediales y estimación preliminar de inmuebles.
-      <br><br>
-      <code>Python</code> <code>ML</code> <code>React</code> <code>Data</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>CuyMarket</strong>
-      <br><br>
-      Marketplace para productores y compradores en Colombia y Ecuador.
-      <br><br>
-      <code>React</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code>
-    </td>
-    <td width="50%" valign="top">
-      <strong>AI + Automation</strong>
-      <br><br>
-      OCR, procesamiento documental, bots e integración de servicios.
-      <br><br>
-      <code>Python</code> <code>Vision API</code> <code>n8n</code> <code>APIs</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="100%" src="./assets/projects-showcase.svg" alt="Proyectos destacados: fintech, PropTech, CuyMarket y automatización">
+</div>
 
 <br>
 
