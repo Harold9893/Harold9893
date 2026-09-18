@@ -10,13 +10,9 @@
   <img src="https://img.shields.io/badge/PASTO-COLOMBIA-F5F7F4?style=for-the-badge&labelColor=050806" alt="Pasto, Colombia">
 </p>
 
-<p align="center">
-  <img
-    src="./assets/tech-marquee.svg"
-    width="100%"
-    alt="Desarrollo · Automatización · IA aplicada"
-  >
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&amp;weight=700&amp;size=22&amp;duration=1500&amp;pause=300&amp;color=22C55E&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=FULL+STACK+DEVELOPER;CONSTRUYENDO+SOLUCIONES+PARA+PROCESOS+REALES;REACT+%2B+TYPESCRIPT+%2B+NODE.JS;IA+APLICADA+%7C+AUTOMATIZACI%C3%93N+%7C+CIBERSEGURIDAD;SIEMPRE+APRENDIENDO%2C+SIEMPRE+CONSTRUYENDO" alt="Typing SVG">
+</div>
 
 <br>
 
