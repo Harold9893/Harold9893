@@ -1,165 +1,115 @@
-<!-- Header wave (azul profesional) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1f6feb"/>
-
-<!-- Hero -->
-<h1 align="center">Hola, Bienvenido 👋 Soy Harold</h1>
-
-<div align="center" width="100%">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=1500&pause=300&color=1F6FEB&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Construyendo+soluciones+que+resuelven+problemas+reales;React+%2B+TypeScript+%2B+Node.js;IA+Aplicada+%7C+Automatizaci%C3%B3n+%7C+Ciberseguridad;Siempre+aprendiendo%2C+siempre+construyendo"
-    alt="Typing SVG"
-  />
+<div align="center">
+  <a href="https://hartok.co/">
+    <img width="100%" src="./assets/hartok-8bit-banner.png" alt="Hello World, I'm Harold — HARTOK">
+  </a>
 </div>
 
-<!-- Quick badges -->
+<br>
+
 <p align="center">
-  <a href="https://github.com/Harold9893?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Harold9893?style=for-the-badge"></a>
-  <a href="https://github.com/Harold9893"><img alt="Stars" src="https://img.shields.io/github/stars/Harold9893?affiliations=OWNER&style=for-the-badge"></a>
-  <a href="mailto:harolds9893@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contactar-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/harold-arciniegas-70894b14b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://hartok.co/"><img src="https://img.shields.io/badge/HARTOK-DIGITAL%20SYSTEMS-22C55E?style=for-the-badge&labelColor=050806" alt="HARTOK"></a>
+  <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-F5F7F4?style=for-the-badge&labelColor=050806" alt="Full Stack Developer">
+  <img src="https://img.shields.io/badge/PASTO-COLOMBIA-F5F7F4?style=for-the-badge&labelColor=050806" alt="Pasto, Colombia">
 </p>
 
----
+<br>
 
-## ⚡ Sobre mí
-
-Desarrollador de software desde Nariño, Colombia. Experiencia construyendo aplicaciones web, plataformas financieras y herramientas de automatización utilizando React, TypeScript, Node.js y PostgreSQL. Interesado en IA aplicada, ciberseguridad y soluciones escalables.
-
-- 🛠️ Construyendo: CRMs financieros, marketplaces en React/TypeScript + PostgreSQL, y herramientas ofimaticas.
-- 🔐 Estudiando: seguridad ofensiva/defensiva, automatización de auditorías, CTFs.
-- 🤖 Jugando con: visión por computador, n8n, modelos de IA aplicados a flujos reales.
-- 📍 Pasto, Nariño — disponible remotamente.
-
----
-
-### 🧰 Lenguajes y herramientas
-<!-- Bloque de iconos centrado y responsive -->
-<div align="center" style="display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:center;">
-  <!-- Lenguajes -->
-  <img alt="Python" title="Python" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="Java" title="Java" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-
-  <!-- Web -->
-  <img alt="Django" title="Django" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
-  <span title="Flask" style="display:inline-flex;width:32px;height:32px;border-radius:8px;background:#111827;align-items:center;justify-content:center;">
-    <img alt="Flask" height="20" loading="lazy" src="https://cdn.simpleicons.org/flask/ffffff"/>
-  </span>
-  <img alt="React" title="React" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img alt="HTML5" title="HTML5" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" title="CSS3" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-
-  <!-- Data / IA -->
-  <img alt="OpenCV" title="OpenCV" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
-  <span title="NumPy" style="display:inline-flex;width:32px;height:32px;border-radius:8px;background:#013243;align-items:center;justify-content:center;">
-    <img alt="NumPy" height="20" loading="lazy" src="https://cdn.simpleicons.org/numpy/ffffff"/>
-  </span>
-  <span title="Pandas" style="display:inline-flex;width:32px;height:32px;border-radius:8px;background:#150458;align-items:center;justify-content:center;">
-    <img alt="Pandas" height="20" loading="lazy" src="https://cdn.simpleicons.org/pandas/ffffff"/>
-  </span>
-
-  <!-- DevOps / Sec -->
-  <img alt="Docker" title="Docker" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-  <span title="Kali Linux" style="display:inline-flex;width:32px;height:32px;border-radius:8px;background:#557C94;align-items:center;justify-content:center;">
-    <img alt="Kali Linux" height="20" loading="lazy" src="https://cdn.simpleicons.org/kalilinux/ffffff"/>
-  </span>
-  <img alt="Git" title="Git" height="32" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <span title="n8n" style="display:inline-flex;width:32px;height:32px;border-radius:8px;background:#1f6feb;align-items:center;justify-content:center;">
-    <img alt="n8n" height="20" loading="lazy" src="https://cdn.simpleicons.org/n8n/ffffff"/>
-  </span>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harold9893&show_icons=true&count_private=true&rank_icon=github&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=22C55E&text_color=F5F7F4&icon_color=22C55E&ring_color=22C55E&locale=es" alt="Estadísticas de GitHub">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harold9893&layout=compact&langs_count=8&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=22C55E&text_color=F5F7F4&locale=es" alt="Lenguajes más usados">
+  <br><br>
+  <strong>DESARROLLO · AUTOMATIZACIÓN · IA APLICADA</strong>
+  <br>
+  <sub>Software útil, mantenible y conectado con procesos reales.</sub>
 </div>
 
----
+<br>
 
-## 🏆 Lo que hago distinto
+<div align="center">
+  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React">
+  &nbsp;&nbsp;
+  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript">
+  &nbsp;&nbsp;
+  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript">
+  &nbsp;&nbsp;
+  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js">
+  &nbsp;&nbsp;
+  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">
+  &nbsp;&nbsp;
+  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django">
+  &nbsp;&nbsp;
+  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
+  &nbsp;&nbsp;
+  <img height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker">
+</div>
 
-- Trabajo en proyectos con usuarios reales: sistemas de cartera, marketplaces, plataformas fintech.
-- No solo código: pienso en UX, seguridad y mantenibilidad desde el primer commit.
-- Explico lo que construyo — porque entender es parte del oficio.
+<br>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/REACT-050806?style=for-the-badge&logo=react&logoColor=22C55E" alt="React">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-050806?style=for-the-badge&logo=typescript&logoColor=22C55E" alt="TypeScript">
+  <img src="https://img.shields.io/badge/NODE.JS-050806?style=for-the-badge&logo=node.js&logoColor=22C55E" alt="Node.js">
+  <img src="https://img.shields.io/badge/POSTGRESQL-050806?style=for-the-badge&logo=postgresql&logoColor=22C55E" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/PYTHON-050806?style=for-the-badge&logo=python&logoColor=22C55E" alt="Python">
+</p>
 
-## 📌 Proyectos destacados
+<h2>Proyectos destacados</h2>
 
-- 🦙 **CuyMarket** — Marketplace digital para productores de cuy en Colombia y Ecuador. React + TypeScript + Node.js + PostgreSQL/Prisma.  
-  `#fullstack #marketplace #latam`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Plataforma de crédito y cartera</strong>
+      <br><br>
+      Solicitudes, clientes, pagos, validación, auditoría y seguimiento.
+      <br><br>
+      <code>React</code> <code>TypeScript</code> <code>Node</code> <code>PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Real Estate Intelligence</strong>
+      <br><br>
+      Análisis de datos prediales y estimación preliminar de inmuebles.
+      <br><br>
+      <code>Python</code> <code>ML</code> <code>React</code> <code>Data</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>CuyMarket</strong>
+      <br><br>
+      Marketplace para productores y compradores en Colombia y Ecuador.
+      <br><br>
+      <code>React</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong>AI + Automation</strong>
+      <br><br>
+      OCR, procesamiento documental, bots e integración de servicios.
+      <br><br>
+      <code>Python</code> <code>Vision API</code> <code>n8n</code> <code>APIs</code>
+    </td>
+  </tr>
+</table>
 
-- 📋 **CarteraCRM** — Sistema de cartera y gestión de clientes para empresa de crédito. +9k líneas, React/TypeScript.  
-  `#fintech #crm #typescript`
+<br>
 
-- 👁️ **Cédula OCR** — Detector de cédulas colombianas con Claude Vision API. Exporta a Excel/CSV en batch.  
-  `#ai #ocr #python`
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harold9893&bg_color=0D1117&color=F5F7F4&line=22C55E&point=FFFFFF&area=true&area_color=166534&hide_border=false&border_color=30363D&custom_title=Actividad%20de%20contribuciones" alt="Actividad de GitHub">
+</div>
 
-- 🛡️ **Mini Pentest Lab** — VMs, nmap, metasploit, reportes automatizados.  
-  `#security #kali #automation`
+<br>
 
-- 💬 **Bot WhatsApp** — Envío personalizado masivo desde desktop vía automatización web.  
-  `#python #automation`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harold9893/Harold9893/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harold9893/Harold9893/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="Animación de contribuciones" src="https://raw.githubusercontent.com/Harold9893/Harold9893/output/github-contribution-grid-snake.svg">
+</picture>
 
----
-
-### 📊 Estadísticas
+<br>
 
 <div align="center">
 
-  <!-- Fila 1: Stats + Top Langs -->
-  <img
-    height="180"
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Harold9893&show_icons=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=1f6feb&text_color=c9d1d9&icon_color=1f6feb&ring_color=1f6feb&border_radius=10&cache_seconds=86400"
-  />
-  <img
-    height="180"
-    align="center"
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harold9893&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=1f6feb&text_color=c9d1d9&border_radius=10&cache_seconds=86400"
-  />
 
-  <br><br>
 
-  <!-- Profile details con fondo transparente -->
-  <img
-    align="center"
-    alt="Profile details"
-    width="95%"
-    style="border-radius:12px; box-shadow:0 0 0 1px rgba(31,110,235,.35);"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harold9893&theme=algolia&background=00000000&hide_border=true"
-  />
+
 
 </div>
-
----
-
-## 🤝 Contacto
-
-<p align="center">
-  <a href="mailto:harolds9893@gmail.com?subject=Hola%20Harold%20%E2%80%93%20desde%20tu%20GitHub&body=Hola%20Harold%2C%20vi%20tu%20perfil%20en%20GitHub%20y%20quiero%20contactarte%20sobre...">
-    <img alt="Email" src="https://img.shields.io/badge/Email-harolds9893%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/harold-arciniegas-70894b14b/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harold%20Arciniegas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://harold9893-9533cb.webflow.io/">
-    <img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <sub>🇨🇴 Disponible para trabajo remoto y colaboraciones.</sub>
-</p>
-
----
-
-## 🐍 Snake de contribuciones
-
-<!-- Light / Dark auto -->
-![snake gif](https://raw.githubusercontent.com/Harold9893/Harold9893/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake gif](https://raw.githubusercontent.com/Harold9893/Harold9893/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-<p align="center">
-  <sub>Última cosa antes de irte: revisa el código, no los títulos.</sub>
-</p>
-
-<!-- Footer wave (azul) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=100&section=footer"/>
